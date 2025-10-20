@@ -106,6 +106,7 @@ npm --version   # Debe ser 9.0+
 # Si usas Git
 git clone https://github.com/Anjelisahori/EJEMPLO-LAB09-DWA.git
 cd EJEMPLO-LAB09-DWA
+cd galeria-omdb
 
 # O descarga el ZIP y extrae los archivos
 ```
